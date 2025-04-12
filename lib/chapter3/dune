@@ -1,0 +1,4 @@
+(library
+ (name chapter3)
+ (modules exercises)
+ (wrapped false))
